@@ -1,0 +1,222 @@
+[
+    {
+      "VehicleId": "bcb8ec58-7f92-4444-8687-37aa0d853149",
+      "LicensePlate": "ZF79SKK",
+      "Status": "Busy",
+      "LastService": "2020-04-19 11:16:51",
+      "Latitude": "51.528404314189046",
+      "Longitude": "-0.03120725882622616",
+      "Model": "Verona",
+      "Make": "Ford",
+      "LastTime": "2023-10-14 12:02:38"
+    },
+    {
+      "VehicleId": "ed30339a-abcc-499e-b1e0-84bf4b4bd125",
+      "LicensePlate": "QB88PXK",
+      "Status": "Busy",
+      "LastService": "2021-07-24 06:22:44",
+      "Latitude": "51.53504978223594",
+      "Longitude": "-0.05112096356529139",
+      "Model": "Sprinter WORKER Passenger",
+      "Make": "Honda",
+      "LastTime": "2023-10-10 21:04:47"
+    },
+    {
+      "VehicleId": "4178c2fa-b18b-4643-8140-140664fd2dd4",
+      "LicensePlate": "GL21 LJJ",
+      "Status": "Busy",
+      "LastService": "2022-10-19 04:03:51",
+      "Latitude": "51.462115376442476",
+      "Longitude": "-0.22647283170180962",
+      "Model": "Econoline E250 Cargo",
+      "Make": "FIAT",
+      "LastTime": "2023-10-06 04:03:21"
+    },
+    {
+      "VehicleId": "a65f819b-2920-4c7c-81a6-2ba906afac50",
+      "LicensePlate": "KB97TSU",
+      "Status": "Busy",
+      "LastService": "2020-12-30 05:54:09",
+      "Latitude": "51.505997517773366",
+      "Longitude": "-0.1864848557655781",
+      "Model": "FX",
+      "Make": "Dodge",
+      "LastTime": "2023-10-03 05:55:52"
+    },
+    {
+      "VehicleId": "ab2759dc-8be1-47d5-9c28-36dc611b4439",
+      "LicensePlate": "LL37 KEH",
+      "Status": "Vacant",
+      "LastService": "2021-05-11 02:41:25",
+      "Latitude": "51.424724133978344",
+      "Longitude": "-0.21741997573363167",
+      "Model": "MPV",
+      "Make": "Land Rover",
+      "LastTime": "2023-10-16 17:52:58"
+    },
+    {
+      "VehicleId": "fccbdb06-e9b4-40ab-b9c4-eac37cad6ea8",
+      "LicensePlate": "KQ82LSB",
+      "Status": "Busy",
+      "LastService": "2020-07-08 05:24:34",
+      "Latitude": "51.51857012078849",
+      "Longitude": "-0.1977915251150196",
+      "Model": "Cascada",
+      "Make": "GMC",
+      "LastTime": "2023-10-09 14:11:25"
+    },
+    {
+      "VehicleId": "19b7ce01-add2-49b0-9be6-97a03a19678c",
+      "LicensePlate": "LZ08WVX",
+      "Status": "UnderRepair",
+      "LastService": "2022-07-27 02:43:04",
+      "Latitude": "51.49571854712206",
+      "Longitude": "-0.027885130764619515",
+      "Model": "80",
+      "Make": "Kia",
+      "LastTime": "2023-10-01 18:31:13"
+    },
+    {
+      "VehicleId": "cb72bb24-fd90-4f49-aade-9a0875f6c8e2",
+      "LicensePlate": "VT39 DHS",
+      "Status": "Vacant",
+      "LastService": "2020-11-04 04:14:44",
+      "Latitude": "51.51708451596746",
+      "Longitude": "-0.20166844166728243",
+      "Model": "Regal",
+      "Make": "Eagle",
+      "LastTime": "2023-10-19 08:10:13"
+    },
+    {
+      "VehicleId": "26bf4996-f884-4bb2-897c-03731194cc64",
+      "LicensePlate": "XV00SJF",
+      "Status": "Busy",
+      "LastService": "2020-10-14 06:50:07",
+      "Latitude": "51.57000677373863",
+      "Longitude": "-0.08291400004336327",
+      "Model": "LR4",
+      "Make": "Ram",
+      "LastTime": "2023-10-24 10:03:06"
+    },
+    {
+      "VehicleId": "781b0b11-97c8-4b56-b3d4-52adf1061b14",
+      "LicensePlate": "EG82 NEJ",
+      "Status": "Vacant",
+      "LastService": "2023-04-02 18:07:50",
+      "Latitude": "51.47722860577835",
+      "Longitude": "-0.11204175857734908",
+      "Model": "Frontier Crew Cab",
+      "Make": "GMC",
+      "LastTime": "2023-10-17 13:04:15"
+    },
+    {
+      "VehicleId": "da480c78-637f-4b03-b77d-4b3536b7d3da",
+      "LicensePlate": "YI88TWQ",
+      "Status": "Busy",
+      "LastService": "2022-04-14 12:48:08",
+      "Latitude": "51.48682516952564",
+      "Longitude": "-0.08522199471486486",
+      "Model": "Camry",
+      "Make": "Ford",
+      "LastTime": "2023-10-12 12:05:55"
+    },
+    {
+      "VehicleId": "cd062153-f669-428e-914b-a2e495edb5cd",
+      "LicensePlate": "LL11 NLR",
+      "Status": "Vacant",
+      "LastService": "2022-12-18 01:58:36",
+      "Latitude": "51.42570348936466",
+      "Longitude": "-0.09661242248284055",
+      "Model": "Express 3500 Cargo",
+      "Make": "Chevrolet",
+      "LastTime": "2023-10-18 23:23:47"
+    },
+    {
+      "VehicleId": "fc36b1d3-bf66-42d8-9433-511fdfa3983d",
+      "LicensePlate": "BO90QBX",
+      "Status": "Busy",
+      "LastService": "2022-11-28 23:36:43",
+      "Latitude": "51.53673112998698",
+      "Longitude": "-0.09457987294897921",
+      "Model": "Silverado 3500 Extended Cab",
+      "Make": "Chevrolet",
+      "LastTime": "2023-10-09 07:08:45"
+    },
+    {
+      "VehicleId": "9a06186f-8c42-4cbe-8f2e-6e1b755f1fae",
+      "LicensePlate": "LG10 GCC",
+      "Status": "UnderRepair",
+      "LastService": "2022-09-09 02:11:26",
+      "Latitude": "51.54750599069314",
+      "Longitude": "-0.20207677642545535",
+      "Model": "H3",
+      "Make": "GMC",
+      "LastTime": "2023-10-03 13:08:32"
+    },
+    {
+      "VehicleId": "979a4eaa-d980-4d9d-bf33-ca350223c938",
+      "LicensePlate": "IY75 APR",
+      "Status": "Busy",
+      "LastService": "2022-04-16 00:46:15",
+      "Latitude": "51.44274910906881",
+      "Longitude": "-0.06563412926119433",
+      "Model": "Cabriolet",
+      "Make": "GMC",
+      "LastTime": "2023-10-24 04:43:05"
+    },
+    {
+      "VehicleId": "5fe977c7-8a67-4aa8-964a-34ec4fb44bcc",
+      "LicensePlate": "CB10DXW",
+      "Status": "Vacant",
+      "LastService": "2019-11-01 10:43:30",
+      "Latitude": "51.48306147436094",
+      "Longitude": "-0.0901876722047214",
+      "Model": "Yukon XL 2500",
+      "Make": "Acura",
+      "LastTime": "2023-10-13 08:17:33"
+    },
+    {
+      "VehicleId": "f009fc96-0bd9-4aef-8009-6788ef104750",
+      "LicensePlate": "OV00JXN",
+      "Status": "Vacant",
+      "LastService": "2021-06-10 16:47:45",
+      "Latitude": "51.53562792329046",
+      "Longitude": "-0.12584966769515857",
+      "Model": "Aveo",
+      "Make": "Mercedes-Benz",
+      "LastTime": "2023-10-14 03:36:43"
+    },
+    {
+      "VehicleId": "6da01b4e-0c1b-4d4a-89b7-27f5d9bce79e",
+      "LicensePlate": "MD92 OLS",
+      "Status": "UnderRepair",
+      "LastService": "2022-04-01 22:54:55",
+      "Latitude": "51.50763443570985",
+      "Longitude": "-0.128485696448924",
+      "Model": "Focus",
+      "Make": "Volkswagen",
+      "LastTime": "2023-10-04 12:51:40"
+    },
+    {
+      "VehicleId": "5293bb79-9984-432f-8e35-f5166a6c4997",
+      "LicensePlate": "GI37ZZO",
+      "Status": "UnderRepair",
+      "LastService": "2023-09-18 15:55:19",
+      "Latitude": "51.4738418559761",
+      "Longitude": "-0.11475394615886286",
+      "Model": "Uplander Passenger",
+      "Make": "Chevrolet",
+      "LastTime": "2023-10-20 15:15:06"
+    },
+    {
+      "VehicleId": "59e53a34-d599-46e4-8867-b88aa89248aa",
+      "LicensePlate": "CC88 GAC",
+      "Status": "Busy",
+      "LastService": "2021-05-28 15:06:43",
+      "Latitude": "51.54395419128157",
+      "Longitude": "-0.18391616997586502",
+      "Model": "S80",
+      "Make": "MAZDA",
+      "LastTime": "2023-10-23 06:46:37"
+    }
+   ]
